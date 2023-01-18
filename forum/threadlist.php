@@ -71,6 +71,18 @@ if ($method =='POST'){
   <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 
 </div>
+<div class="jumbotron text-center">
+  <h1 class="display-4">Welcome to <?php echo $catname;?> Forum
+</h1>
+  <p class="lead"></p>
+  <hr class="my-4">
+  <p><?php echo $catdesc;?></p>
+  <p class="lead"> Don't spam the forums or create topics or posts with spammy content, including content or URLs......
+
+  </p>
+  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+
+</div>
 <div class ="cointainer ">
   <div class="row mx-4 ">
   <h1 class="py-2  text-center">Start a Discussion</h1>
