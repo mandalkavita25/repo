@@ -72,11 +72,8 @@ if ($method =='POST'){
 
 </div>
 <div class="jumbotron text-center">
-  <h1 class="display-4">Welcome to <?php echo $catname;?> Forum
-</h1>
   <p class="lead"></p>
   <hr class="my-4">
-  <p><?php echo $catdesc;?></p>
   <p class="lead"> Don't spam the forums or create topics or posts with spammy content, including content or URLs......
 
   </p>
